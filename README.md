@@ -4,6 +4,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo
+
+You can view a live demo of the password generator [here](#).
+<img width="920" alt="image" src="https://github.com/MAHESHPATIDAR2615/study-material/assets/172995799/4657b0f0-aa13-4e49-9e15-916051ccd521">
+<img width="920" alt="image" src="https://github.com/MAHESHPATIDAR2615/study-material/assets/172995799/936170bd-1e8b-41de-ac2d-5532aeb845ee">
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
